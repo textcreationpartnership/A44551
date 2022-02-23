@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The horrid conspiragie [sic] of such impenitent traytors as intended a new rebellion in the kingdom of Ireland with a list of the prisoners, and the particular manner of seizing Dublin-castle by Ludlow, and his accomplices : verbatim out of the expresses sent to His Majesty from the Duke of Ormond.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44551</idno>
+            <idno type="STC">Wing H2863</idno>
+            <idno type="STC">ESTC R14017</idno>
+            <idno type="EEBO-CITATION">11839491</idno>
+            <idno type="OCLC">ocm 11839491</idno>
+            <idno type="VID">49789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 497:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The horrid conspiragie [sic] of such impenitent traytors as intended a new rebellion in the kingdom of Ireland with a list of the prisoners, and the particular manner of seizing Dublin-castle by Ludlow, and his accomplices : verbatim out of the expresses sent to His Majesty from the Duke of Ormond.</title>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+               </titleStmt>
+               <extent>[2], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Speed ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A news tract.</note>
+                  <note>Ludlow was not involved in the attack.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1690.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:49789:1"/>
+            <p>
+               <figure>
+                  <q xml:lang="fre">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49789:1"/>
+            <p>The Horrid CONSPIRACIE Of ſuch IMPENITENT TRAYTORS As intended A New Rebellion In the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>WITH A LIST of the <hi>PRISONERS,</hi> AND The Particular Manner of Seizing Dublin-Caſtle BY <hi>L<g ref="char:V">Ʋ</g>DLOW,</hi> And His ACCOMPLICES.</p>
+            <p>
+               <hi>Verbatim</hi> out of the <hi>Expreſſes</hi> ſent to His <hi>MAJESTY</hi> from the Duke of <hi>ORMOND.</hi>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Speed</hi> at the Rain-Bow near the Inner Temple-Gate in <hi>Fleetſtreet.</hi> 1663.</p>
+            <pb facs="tcp:49789:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="historical_account">
+            <pb facs="tcp:49789:2"/>
+            <head>The HORRID CONSPIRACIE OF Such Impenitent Traytors as intended A NEW REBELLION in the Kingdom of <hi>IRELAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough God Almighty hath been plea<g ref="char:EOLhyphen"/>ſed by his unexpreſſible mercy to re<g ref="char:EOLhyphen"/>ſtore His Sacred MAJESTIE to his Crown and Dignity, and thereby his good Subjects of his three Kingdoms; Yet after ſo long and various Rebellions it cannot ſeem ſtrange if ſome wicked and deſperate Princi<g ref="char:EOLhyphen"/>ples ſtill lurk in thoſe who before were ſwoln to ſuch a prodigious height by Rapine and Bloud. And though the unparallel'd Clemencie of our gracious Soveraign were ſufficient (one would think) to make them remember nothing but their Pardon; yet theſe ungrateful Wretches have broke afreſh into the Act of Indempnity, plotting moſt wickedly the Ruine and Deſtruction of all that love the Peace and Go<g ref="char:EOLhyphen"/>vernment of the three Nations: And in order there<g ref="char:EOLhyphen"/>unto, contrived firſt to ſeize upon the Royal Caſtle of <hi>Dublin,</hi> and then to cut off that Excellent Perſo<g ref="char:EOLhyphen"/>nage <hi>James</hi> Duke of <hi>Ormond,</hi> His Majeſties Lieute<g ref="char:EOLhyphen"/>nant
+<pb n="2" facs="tcp:49789:3"/>
+of the Realm of <hi>Ireland;</hi> both which they plotted to put in execution the 21 of this laſt month of <hi>May.</hi> But God (who is better pleaſed with his own Mercies) would not proſper ſuch ungrateful Traytors, but brought it to light; ſo as many of the Conſpirators are now apprehended, and the reſt ſo purſu'd as no doubt they ſhall not long eſcape. But (which is moſt remarkable) that all the world may ſee what impudent and groundleſs Traytors theſe are, they had drawn a Declaration (to be forthwith publiſhed) wherein they onely repeat the ſelf-ſame Excuſes which Themſelves and their Predeceſſors us'd for the firſt Rebellion; pretending (forſooth) <hi>their former Oaths and Covenants,</hi> (which God knows binde them onely to Repentance that ever they took them:) That <hi>His Majestie is ſeduced by evil Counſel<g ref="char:EOLhyphen"/>lors,</hi> (becauſe He will not conſent to His own and His Peoples Deſtruction:) <hi>That their intent to take Arms was for their just Defence;</hi> (which hath been the Pretence of all Rebels ſince the world began:) <hi>That they will ſtand for a Religion according to the tenure of the Solemn League and Covenant;</hi> (which thoſe very Traytors, who are all Independents, fought againſt) And <hi>bring all things to that ſtate it was in the year</hi> 1659. (which was the moſt wilde and deſperate condition, when we had Four Governments in one year.) And all this they call <hi>The Repairing of the Breaches.</hi>
+            </p>
+            <p>The manner of putting this horrid Villany in execution, take in the very words of the Ex<g ref="char:EOLhyphen"/>preſs it ſelf.</p>
+            <p>
+               <pb n="3" facs="tcp:49789:3"/>
+               <q>WHen 120 Horſe, and as many Foot are had, 80 of the Foot are to be put into the Back-ſide, and Houſe, be<g ref="char:EOLhyphen"/>ing moſt lodged there one night, after a Scout being in, tells all is clear within; then ſix of them being upon occaſions with Petitions in their hands, or the like, within the Caſtle waiting; as ſoon as the ſix men come into the Caſtle, they ſend a Meſſen<g ref="char:EOLhyphen"/>ger to the 80. to tell them; who immedi<g ref="char:EOLhyphen"/>ately return them him again, as ſoon as they are ready: and at his heels comes a Basket of Bread, and other Proviſions; and after it three or four men, who interpoſe be<g ref="char:EOLhyphen"/>tween the Basket and the 80 Foot, leſt any ſeeing the Party, ſhould run before, and Alarm the Guard. As ſoon as the ſix men within ſee the aforeſaid Meſſenger return, as aforeſaid from the eighty, they (though ſcatteringly) make towards the back-gate that goeth into <hi>Sheep-ſtreet,</hi> to go forth; where, in the ſhutting of the Gate (for by that time the Basket will be let down, and the eighty men will appear) there will
+<pb n="4" facs="tcp:49789:4"/>
+ſome ſtrife ariſe between the Guard at the door and the Basket-men; the which the ſix men within will decide, by taking the Baskets part, and ſo let the eighty in, wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being divided, thirty to the Guard at the door, thirty for the Guard in the great gate, ten for the Gate they enter at, and ten to the Stable-yard Gate, to force it open to receive in a ſelect party of Horſe; twen<g ref="char:EOLhyphen"/>ty men are to go to <hi>Jones</hi> his Chamber, and to ſecure him and the Ladies. All theſe are to have their ſeveral Leaders to each Party, of the moſt reſolute and ſtouteſt of the Party, and each to ſtand to his Buſineſs. The Horſe are to be diſpoſed of as follow<g ref="char:EOLhyphen"/>eth: thirty over the Water, thirty againſt the Stable-yard-Gate, thirty without New-gate, twenty in Wine-Tavern-ſtreet: There muſt be attending upon the afore<g ref="char:EOLhyphen"/>ſaid Foot eight Meſſengers, which muſt each couple be aſſign'd their party of Horſe to go to: and aſſoon as the Foot are ready for the attempt of the Caſtle, they imme<g ref="char:EOLhyphen"/>diately ſend to each party of Horſe one Meſſenger; the other four ſtay for further Orders. At the coming of the firſt Meſ<g ref="char:EOLhyphen"/>ſengers,
+<pb n="5" facs="tcp:49789:4"/>
+he that hath the charge of each party of Horſe ſends in four or five Horſe within each Gate, and immediately mounts his men, unto whom he gives, if they want, (which few, if any, will then) a Piſtol, with Ammunition. Then by that time the News comes that the Caſtle is taken (which the four Meſſengers left are to convey with all ſpeed to their ſeveral Charges) all the Horſe are marched into the Citie, with<g ref="char:EOLhyphen"/>out any ſtir or confuſion, and ſhut the gates after them, leaving without at each Gate two Scouts to checque the Alarm of any jealous head, and to give account how things are without. At <hi>Ormond-Gate</hi> there muſt be left three or four men, to ſhut it; ſe<g ref="char:EOLhyphen"/>ven or eight at <hi>Pole-</hi>gate, and <hi>Nicholas-gate,</hi> to ſhut them; and ſo at each Gate: then each Party having their Ward aſſigned them, they ſcowre the Streets of the Citie, and diſperſe gatherings of the Souldiery, if any be endeavoured, and cry, <hi>A free Parliament, and an Engliſh Interest.</hi> Aſſoon as ever the Citie is put into any Order, (for by that time it is ſuppoſed that the Repu<g ref="char:EOLhyphen"/>tation of the Caſtle, and the undertaking
+<pb n="6" facs="tcp:49789:5"/>
+of the Engliſh Intereſt, will gain followers enough) they muſt iſſue into the Suburbs, and ſcowre thoſe Streets, being then aſſiſted by moſt of the Forces that attempted the Caſtle; and ſo proceed, and according as they finde opportunity, require men. There muſt be left about twenty men near the Main-Guard under the Tholſhal, to help the twenty Horſe in Wine-Tavern-ſtreet, to ſecure it; which Guard at that time a day are but a few.</q>
+            </p>
+            <p>Upon the Diſcovery of this Horrid Deſigne, the Lord Lieutenant and Council in <hi>Ireland</hi> immediate<g ref="char:EOLhyphen"/>ly ſet forth this following Declaration.</p>
+            <q>
+               <pb n="7" facs="tcp:49789:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>BY The Lord Lieutenant AND COUNCIL.</head>
+                        <opener>
+                           <signed>ORMONDE.</signed>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">W</seg>HEREAS certain wicked per<g ref="char:EOLhyphen"/>ſons of Fanatick and Diſloyal principles, diſaffected to His Ma<g ref="char:EOLhyphen"/>jeſties Iuſt and Gracious Govern<g ref="char:EOLhyphen"/>ment, and to the Peace and Set<g ref="char:EOLhyphen"/>tlement of this Kingdom, have lately moſt Traiterouſly and Diſ<g ref="char:EOLhyphen"/>loyally conſpired to raiſe Rebellious Diſturbances in this Realm, and particularly had deſigned on the 21 day of this preſent <hi>May</hi> to ſurprize and take His Majeſties
+<pb n="8" facs="tcp:49789:6"/>
+Caſtle of <hi>Dublin,</hi> His principal Fort in this His King<g ref="char:EOLhyphen"/>dom, and to ſeize on the Perſon of Vs the Lord-Lieu<g ref="char:EOLhyphen"/>tenant, in order to their carrying on their miſchievous Contrivances, for renewing Bloudy Confuſions thorow<g ref="char:EOLhyphen"/>out this Kingddm, from which Evils this Realm and all His Majeſties Subje<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ts therein have been but newly redeemed, and that by the bleſſing of God and His Ma<g ref="char:EOLhyphen"/>jeſties happie Reſtauration to His Rightful Crowns and Kingdoms: And as We look upon thoſe Odious Con<g ref="char:EOLhyphen"/>ſpiracies as the miſchievous Contrivances of ſome Fa<g ref="char:EOLhyphen"/>natick and Diſloyal perſons of Deſperate Fortunes, as well as of deſperate and deſtructive Principles, who en<g ref="char:EOLhyphen"/>deavour to amend their own conditions by the ruine of o<g ref="char:EOLhyphen"/>thers, or to ſet up ſome thing (if they knew what) ſuita<g ref="char:EOLhyphen"/>ble to the Frenzie of their own Humours and Imaginati<g ref="char:EOLhyphen"/>ons, though at the charge and hazard of others, and at the price of other mens blood whom they labour to ſedure; ſo now their horrid Conſpiracie being by the Bleſſing of God diſcovered and diſappointed, and ſome of the Conſpi<g ref="char:EOLhyphen"/>rators apprehended and committed to Priſon, We there<g ref="char:EOLhyphen"/>fore have thought fit hereby to make it publickly known, for the comfort &amp; quieting the minds of all His Majeſties good and loyal Subjects in all parts of the Kingdome; and do pray and require the Preſidents of the ſeveral Pro<g ref="char:EOLhyphen"/>vinces of <hi>Munſter</hi> and <hi>Connaght,</hi> as We alſo require all and every the Mayors and chief Officers of all Cities and Corporate Towns, and all and every the Iuſtices of the Peace of all and every the Counties in this King<g ref="char:EOLhyphen"/>dome, to cauſe diligent ſearch and inquiry to be made for, and to cauſe to be apprehended and committed to Priſon all perſons within their reſpective limits whom they ſhall
+<pb n="9" facs="tcp:49789:6"/>
+find to have had any hand in the ſaid Conſpiracie, and to give to Vs the Lord Lieutenant a ſpeedy accompt of their Proceedings herein, and Advertiſements from time to time of all Occurrences falling within their knowledge or obſervation, which may any way tend to the Diſtur<g ref="char:EOLhyphen"/>bance of that happy Peace and Quietneſs which by the Bleſſing of God upon His Majeſties gracious Govern<g ref="char:EOLhyphen"/>ment this Kingdome and His good Subjects therein have hitherto comfortably enjoyed.</p>
+                        <closer>
+                           <dateline>Given at his Majeſties Caſtle of Dublin <date>the 21th Day of <hi>May,</hi> 1663.</date>
+                           </dateline>
+God ſave the King.
+<signed>
+                              <list>
+                                 <item>Jo. Armachanus,</item>
+                                 <item>Mau. Euſtace, Canc.</item>
+                                 <item>Ja. Dublin.</item>
+                                 <item>Oſ<g ref="char:EOLhyphen"/>ſory,</item>
+                                 <item>Kildare,</item>
+                                 <item>Mount-Alexander,</item>
+                                 <item>Angleſey,</item>
+                                 <item>Maſſareene,</item>
+                                 <item>Hen. Midenſis,</item>
+                                 <item>Joh. Clogher.</item>
+                                 <item>W. Caulfield,</item>
+                                 <item>Fran. Angier,</item>
+                                 <item>R. Coote,</item>
+                                 <item>Santry,</item>
+                                 <item>Hen. Tichborne,</item>
+                                 <item>Ja. Donelan,</item>
+                                 <item>Jo. Byſſe,</item>
+                                 <item>T. Temple,</item>
+                                 <item>Paul Davis,</item>
+                                 <item>Ja. Ware,</item>
+                                 <item>Rob. Meredith,</item>
+                                 <item>Theo. Jones,</item>
+                                 <item>Tho. Pigot.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And within two days afterward, the foregoing Declarati<g ref="char:EOLhyphen"/>on was ſeconded by another; which is this that follws.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <pb n="10" facs="tcp:49789:7"/>
+                        <head>By The Lord Lieutenant AND COUNCIL.</head>
+                        <opener>
+                           <signed>ORMONDE.</signed>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">W</seg>HEREAS We have by the Bleſſing of God diſcovered and diſappointed a Traiterous Conſpiracy for ſurprizing and taking His Majeſties Caſtle of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> (His Majeſties principal Fort in this His Kingdom) which the ſaid Conſpirators had de<g ref="char:EOLhyphen"/>ſigned to do on the 21 day of this preſent Month of <hi>May;</hi> And whereas divers of the Conſpirators are apprehended and committed to Priſon, where they ſtill remain; And whereas divers others of the ſaid Conſpirators (being conſcious to themſelves of their own Guilts) have found means to eſcape, and are not as yet apprehended, name<g ref="char:EOLhyphen"/>ly, <hi>Thomas Blood,</hi> late of <hi>Sarny</hi> near <hi>Dunboine</hi> in the
+<pb n="11" facs="tcp:49789:7"/>
+County of <hi>Meath,</hi> Colonel <hi>Daniel Abbot,</hi> Major <hi>Abel War<g ref="char:EOLhyphen"/>ren, Andrew Mac Cormock</hi> a pretended Miniſter, lately of <hi>Magherawly</hi> in the County of <hi>Down, Robert Chambers,</hi> a pretended Miniſter, Colonel <hi>Gilbert Carr,</hi> commonly call<g ref="char:EOLhyphen"/>ed <hi>Gibby Carr, John Chamberlin</hi> late of <hi>Dublin</hi> Brewer, <hi>John Fooke</hi> late of <hi>Atherdee</hi> in the County of <hi>Lowth</hi> E<g ref="char:EOLhyphen"/>ſquire, Lieutenant <hi>John Ruxton</hi> late of the ſame, Lieu<g ref="char:EOLhyphen"/>tenant <hi>De la Rock,</hi> Major <hi>Henry Jones</hi> late of <hi>Stelorgan</hi> in the County of <hi>Dublin,</hi> Major <hi>Alexander Staples</hi> late of <hi>Londonderry,</hi> Lieutenant Colonel <hi>William Moore,</hi> who was lately Disbanded, and had been formerly Gariſon<g ref="char:EOLhyphen"/>ed at <hi>Gallway,</hi> and afterwards at <hi>Athlone.</hi> We therefore do by this Proclamation in His Majeſties Name ſtrictly charge and command all and every the ſaid forenamed Perſons, that within eight and forty hours after the publiſhing of this Proclamation, within the County where ſuch Perſon or Perſons ſhall then be, he and they do render his and their perſons to Vs, the Lord Lieute<g ref="char:EOLhyphen"/>nant, or to one of His Majeſties Privy Council in this Kingdom, or to one of His Majeſties Iuſtices of Peace next adjoyning to the place or places where ſuch perſon or perſons now are, or then ſhall be: wherein if they or any of them ſhall fail, We do hereby Declare and publiſh them and every of them ſo failing, to be Rebels and Traitors againſt His Majeſty, His Crown and Dignity, and to be accordingly proſecuted by all His Majeſties good Sub<g ref="char:EOLhyphen"/>jects. And we do hereby publiſh and declare, That all and every perſon and perſons that ſhall relieve or conceal any of the ſaid forenamed perſons at any time after the publiſhing of this Proclamation as aforeſaid, that they alſo ſhall be proceeded againſt as Relievers and Abattors
+<pb n="12" facs="tcp:49789:8"/>
+of Rebels and Traitors. And we require all his Maje<g ref="char:EOLhyphen"/>ſties Officers and Loving Subjects to endeavour the Ap<g ref="char:EOLhyphen"/>prehenſion of all and every the ſaid fore-named perſons. And we do hereby declare, That any perſon or perſons that ſhall apprehend the ſaid <hi>Thomas Blood,</hi> Major <hi>Abel Warren, Andrew Mac Cormock, Robert Chambers,</hi> Colo<g ref="char:EOLhyphen"/>nel <hi>Gilbert Carr,</hi> commonly called <hi>Gibby Carr,</hi> or any of them, and bring him or them, or cauſe him or them to be brought to the High Sheriff of the County wherein he or they ſhall be apprehended, at, by or before the <hi>24th</hi> day of <hi>June</hi> next, ſhall have as a reward for the ſaid Ser<g ref="char:EOLhyphen"/>vice, the ſum of One hundred pounds for every of the ſaid laſt named perſons, ſo to be apprehended and brought in as aforeſaid by or before the ſaid <hi>24th</hi> day of <hi>June</hi> next.</p>
+                        <closer>
+                           <dateline>Given at His Majeſties Caſtle of Dublin <date>the 23th of <hi>May,</hi> 1663.</date>
+                           </dateline>
+God ſave the King.
+<signed>
+                              <list>
+                                 <item>Mau. Euſtace, Canc.</item>
+                                 <item>Drogheda,</item>
+                                 <item>Mount-Alexander,</item>
+                                 <item>Angleſey,</item>
+                                 <item>Maſſereene,</item>
+                                 <item>Dungannon,</item>
+                                 <item>VV. Caulfield,</item>
+                                 <item>R. Coote,</item>
+                                 <item>Santry,</item>
+                                 <item>Hen. Tichborne,</item>
+                                 <item>Ia. Donelan,</item>
+                                 <item>Io. Byſſe,</item>
+                                 <item>I. Temple,</item>
+                                 <item>Paul Davis,</item>
+                                 <item>Tho. Pigot.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>BY this time 'tis too plain that the Loyal Parliaments of England, Scotland and Ireland, had too much reaſon to order a Renunciation of the Solemn League and Covenant; when thoſe very Rebels which abhor and deſpiſe it (as if they were honeſt men) do to this hour make it the bottom for a new Rebellion: who are ſo weary of their own happineſs, that they would not live under a Prince whom they can one<g ref="char:EOLhyphen"/>ly fault, that he is too good to be their King.</p>
+            <list>
+               <pb n="15" facs="tcp:49789:8"/>
+               <head>
+                  <hi>A</hi> LIST <hi>of the</hi> PRISONERS <hi>committed the</hi> 22 <hi>of</hi> May 1663.</head>
+               <item>
+                  <hi>THomas Scot,</hi> formerly a Colonel under <hi>Harry Cromwel,</hi> and continued in the Army till the Kings Reſtauration; and ſon to the Regicide.</item>
+               <item>Col. <hi>Edward Warren,</hi> a Colonel under <hi>Har<g ref="char:EOLhyphen"/>ry Cromwel,</hi> and ſo continued till <hi>Harry Cromwel</hi>'s leaving <hi>Ireland.</hi>
+               </item>
+               <item>
+                  <hi>Theophilus Sandford,</hi> a Capt. of Horſe in <hi>Harry Cromwel</hi>'s time, and ſo continued till his Majeſties Reſtauration.</item>
+               <item>
+                  <hi>John Chambers,</hi> formerly a Capt. of Horſe in his Ma<hi rend="sup">ties</hi> ſervice, and afterwards ſer<g ref="char:EOLhyphen"/>ved as a Trooper under <hi>Cromwel.</hi>
+               </item>
+               <item>
+                  <hi>Alexander Jephſon,</hi> a Phanatick Juſtice of Peace, and Portriff of <hi>Trim;</hi> formerly of the Army under <hi>Cromwel.</hi>
+               </item>
+               <item>
+                  <hi>Philip Alden,</hi> an expert Atturney.</item>
+               <item>
+                  <hi>Richard Thompſon,</hi> formerly a Lieutenant of Horſe to <hi>Ottoway,</hi> and is now Deputy-Provoſt-Marſoal of <hi>Lei<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ster.</hi>
+               </item>
+               <item>
+                  <pb n="12" facs="tcp:49789:9"/>
+                  <hi>John Fouke,</hi> ſon to Col. <hi>John Fouke,</hi> for<g ref="char:EOLhyphen"/>merly Governor of <hi>Drogheda</hi> under <hi>Cromwel.</hi>
+               </item>
+               <item>
+                  <hi>Edward Baines,</hi> a Fanatick Preacher, for<g ref="char:EOLhyphen"/>merly <hi>Harry Cromwel</hi>'s Chaplain.</item>
+               <item>
+                  <hi>William Lackey,</hi> a Presbyterian Preacher, and a School-maſter.</item>
+               <item>
+                  <hi>Thomas Boyd,</hi> a Merchant of <hi>Dublin.</hi>
+               </item>
+               <item>
+                  <hi>James Tanner,</hi> formerly a Clerk to D<hi rend="sup">r</hi> 
+                  <hi>Gorge</hi> when he was Secretary to <hi>Harry Crom<g ref="char:EOLhyphen"/>wel.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Sturges,</hi> an Inn-keeper where the Conſpirators uſually met.</item>
+               <item>
+                  <hi>William Dod,</hi> a Clerk in the Diſcriminators Office.</item>
+               <item>
+                  <hi>Stephen Radford,</hi> an ordinary Towns-man, and a profeſſed Fencer.</item>
+               <item>
+                  <hi>Abraham Langton,</hi> an ordinary Citizen of <hi>Dublin.</hi>
+               </item>
+               <item>
+                  <hi>William Bayly,</hi> a Towns-man.</item>
+               <item>
+                  <hi>Robert Davies,</hi> a Trooper formerly.</item>
+               <item>
+                  <hi>John Biddel,</hi> a Trooper formerly.</item>
+               <item>
+                  <hi>John Smullen,</hi> a Trooper formerly.</item>
+               <item>
+                  <hi>Thomas Ball,</hi> a Towns-man, and formerly a Trooper.</item>
+               <item>
+                  <hi>John Griffin,</hi> a Trooper formerly.</item>
+               <item>
+                  <pb n="15" facs="tcp:49789:9"/>
+                  <hi>William Bradford.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Fann,</hi> alias <hi>Farr.</hi>
+                  <list>
+                     <head>Taken ſince.</head>
+                     <item>Major <hi>Henry Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Price.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb facs="tcp:49789:10"/>
+            <closer/>
+            <postscript>
+               <head>Poſt-ſcript.</head>
+               <p>THere is a dayly expectation of ſome farther Intelligence, which ſhall be made publick with the firſt opportunity: till then, t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Reader muſt be ſatisfied with what hath been alrea<g ref="char:EOLhyphen"/>dy related, it being an exact Narrative as it was re<g ref="char:EOLhyphen"/>preſented to His Majeſty Himſelf. If you meet with any other Accompts of the Iriſh Affairs, they muſt be imperfect and counterfeit, and not as this is,</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Printed and Publiſhed by Authority.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
